@@ -27,8 +27,6 @@ fi
 
 clear
 echo ""
-read -p $'\e[1;91m[\e[0m\e[1;77m+\e[0m\e[1;91m]\e[0m\e[1;96m Enter The Ngrok Token [Ex. 1Y7IU ] : \e[0m' token
-./ngrok authtoken $token
 sleep 2
 clear
 echo -e $'\e[1;91m\e[0m\e[1;33m\e[0m\e[1;96m\e[0m\e[1;92m  ---------------------------------   \e[1;91m\e[0m'
