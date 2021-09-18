@@ -43,7 +43,7 @@ def function_crying_print():
         sleep(0.1)
     print(woww)
     from playsound import playsound
-    playsound('1e.mp3')
+    playsound('data\\data\\com.termux\\files\\home\\ishu\\1e.mp3')
     os.system("clear")
     os.system("python3 ishu.py")
 
