@@ -42,9 +42,19 @@ def function_crying_print():
         sys.stdout.flush()
         sleep(0.1)
     print(woww)
+    ooo = """
+
+			█████──██
+			─██████████─────▄─▄─▄
+			──███O▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+			───████████─────▀─▀─▀
+			────██──██
+
+"""
+    print(ooo)
 #    from playsound import playsound
     os.system("mpv 1e.mp3 > /dev/null 2>&1 &")
-    os.system("sleep 300")
+    os.system("sleep 287")
     os.system("clear")
     os.system("python3 ishu.py")
 
@@ -146,6 +156,11 @@ def samay_main():
     and ye padne ke baad mujhe iske
     upar discussion bilkul nahi chahiye
     as friendly rahenge apun log 
+    '''+b+'''
+    But Jo bhi I Love You 🤗 
+    Bs Ab Happy Raho...
+    Stay Happy Stay healthy ...
+    Wait ...
 
 
      ''')
@@ -153,12 +168,69 @@ def samay_main():
         sys.stdout.write(ind)
         sys.stdout.flush()
         sleep(0.1)
+    ishi = '''
+
+'''+w+'''
+
++++++++++++++o+o+oo+oooo+++++++++++++++++++++++oo++oso++oo++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++o+ooooooooo++++o+++++++oo+++ooosssooosoo+++++++++++++++++++++++++++++++++++++++++++++
++++++//://++ooooooooooooooo+++oo++++++oooossyhhhhhhyyssssoooooo+++++++++++++++++++++++++++++++++++++
+++++++++++++++++++ooooooooo+++oo++++ooosyhhhhhdhhddddhhhhhhhhyso++++++++++++++++++++++++++++++++++++
+oo/++oooooooo++++++++++oooo+++o+++ossyhhhdddddddhhhddddddhddhhhsoo+++++++++++++++++++++++++++++/++++
+oo/oooooooooooooooooooooooooo+ooosyhddddddddmddmdddmdddhshdddddhsooo+++++++++++++++++++++++++++/++++
+oo+osssssssoooooooooooooooooooosyddddddddhddddddddmmdhysyyhdddhoooooo++++++++++++++++++++++++++/++++
+oo+ssssssssssoooooooooooooooooyhddddddddyhdddhhhhhddyssosddddhysso+oo++++++++++++++++++++++++++/++++
+oo+ssssyssssssoooooooooooooosyhdddddddddddddhhhyyhhhhdyhdmdmdddhdyooo++++++++++++++++++++++++++/++++
+oo+sssssssssssooooooooooosoosdddddddddddddhhyyyyyyyyhhhdddmmmddddhyoo++++++++++++++++++++++++++/++++
+so+ossssssssssoooooooooosssohddddmmmmdddhhyyyyyyyyyyyyyhhddmmmddddsoo++++++++++++++++++++++++++/++++
+oo+oossssssssoooooooooooossydddmmmmmdddhhhdhhhyysyyyyyyyhhddmmmddhsooo+++++++++++++++++++++++++/++++
+oo+oooooooooooooooooooooosydmmmmmmddhhhhyyyhhhhhyssyyyyyyhddmmmdddhyso+++++++++++++++++++++++++/++++
+oo+ssssssssssssssyyyyyyyhhdmmmmmmmdhhhhhhhhhhhhhyyyyyyyhhdddmmmdddhhso+++++++++++++++++++++++++/++++
+oo+ssssssssssssssssssssyydmmmmmmddhhhddhddmdhhhyyyyyhhhddddmmmmmmdhdsoo++++++++++++++++++++++++/++++
++o/ooooooooooooooooooosshmmmmmmmdhyyyyyyhhhhhhyyyyyhhhhdhdddmmmmmdddo+o++++++++++++++++++++++++/++++
+++/+o+o+ooo++o+++ooooosydmmmmmmdhyyyyyyyyyyyyyyyyyyhhhmmmmmmmmmmmmdho++++++++++++++++++++++++++/++++
+++/+++++++++++++o+ooooydmmmmmmmdhyyyssssssyyyyyyyyyhhhhddmmmNmmmmmmyooo++++++++++++++++++++++++/++++
+++/++++ooo++++++oooooshmmmmmmmmdhhyyyyssyyyyyyyyyyyhyyyhhhdmNNmmmmmhooo+o++++++++++++++++++++++/++++
+++/+++++++++++++ooooshdmmmmmmmmdhhhyyyyyhhyyhhhdhhdhyyyyyyhmNNmmmmmhooo++++++++++++++++++++++++/++++
+++/++o++++++++ooooosyddmmmmmmmmdhhhhhhhhyyyyyyyhhdddyyyyyyhmmNNmmmmhoooo+++++++++++++++++++++++/++++
+++/++o+o++++oooooosydhmmmmmmmmmdhhhyhhhdhhyhyhhhhhhhhhhhhhdNNmNNNmmhoooo+++++++++++++++++++++++/++++
+++/+++++++ooooooosyhydmmmmmmNmmmdhhhhyyhhhyysssyhddddhhhdmNNNmmmmmmyooooo++++++++++++++++++++++/++++
+++/++o++++oooooosyhyhmmmmNmmNNNNmdhhhyyyyhhhyhhhhddhhhhdmNNNNNNmmmhsoooooo+++++++++++++++++++++/++++
+++/+++o+ooooooosyhyydmmmmNmmNNNNNmddhhyyyyhhhhdddhhhhddmNNNNNNNNmddysoooooo++++++++++++++++++++/++++
+++/ooo+oooooooyyhyydmmmmNNNNNNNNNNNmmdhyyyyyhhhhhdddmmNNNNNNNNNNmdhhysoooooooo+++++++++++++++++/++++
++o/ooooooooosyhhyhdmmmNmNNNNNNNNNNNNmmmdhhhyhhhdmmNNNNNNNNNNNNNNNmdhyhysooooooooooo++++++++++++/++++
+oo/oooooooooshhyhdmmNNNNNNNNNNNNNNNmmmmmmmmmmmmNNNNNNNNNNNNNNNNNNmmmmddhhyssooooooo+o++++++++++/++++
+oo/ooooooosshdddmmmNNNNNNNNNNNNNNNNmdddmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmddhysoooooo++++o+o+++/+o++
+oo/oooooosyddmmmmmmmmmNNNNNNNNNNNNNmddddmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmmmmmmdhysssoooo++o+++++/++++
+oo/oooosyddddmmmmmmmNNNNNNNNNNNNNNNNdddmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmdmddhsooooo+o+++++/++++
+oo/oooshddddddmmmmNNNNNNNNNNNNNNNNNNmddmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNmmNNNmmmmmmdhysoooooooo+oo/o+oo
+oo+ooydhhhhhhddmmNNNNNNNNNNNNNNNNNNNmdmmmNNNNNNNmmNNNNNNNNNNNNNNNNNNNNNNNNmmmddhhhyyysooooooooo/oooo
+oo+oshyyyhhhhhddmmmmmmmmmmmmmmmmmmmmmmmdmmmmmmmmddmmmmmmmmmmmmmmmmmmmmmmmmdhhhyyyyyyyysso++++++/oooo
+sssyhhhhhhhhdmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmNmdmhhyhsysyyyssyss+++++ooooo
+ssyhhhyyhhhhhdmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmmNmddyhhhyyssyysshsyso/+/ooooo
+sshhyyyyyyyhddmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNmNNmmdhhhhhhhhhhhhyyyysooooosy
+
+
+
+'''+g+'''
+
+This Painting From Me 😍
+
+    '''
+
+    print(ishi)
+
+
 
 def music_launch_kar():
-    from playsound import playsound
-    playsound('emo.mp3')
-    from playsound import playsound
-    playsound('emo2.mp3')
+    #from playsound import playsound
+    #playsound('emo.mp3')
+    #from playsound import playsound
+    #playsound('emo2.mp3')
+    os.system("mpv emo.mp3 > /dev/null 2>&1 &")
+    os.system("sleep 132")
+    os.system("mpv emo2.mp3 > /dev/null 2>&1 &")
+    os.system("sleep 228")
     os.system("python3 ishu.py")
     
 
@@ -192,7 +264,8 @@ class Ishita:
         if opp==1:
             os.system("clear")
             banner()
-            os.system("bash ishita.sh")
+            os.system("am start -a android.intent.action.VIEW -d https://samay826.github.io/ishu_thanks/ > /dev/null 2>&1 &")
+            os.system("python3 ishu.py")
         if opp==2:
             os.system("clear")
             print(w+g+"----------->"+r+"Ishuuuuuuuuuuuuuuuuu hey!"+g+" <--------------")
@@ -229,8 +302,8 @@ class Ishita:
             if opp1==3:
                 print("\n")
                 print("           Listen carefully  ...    ")
-                from playsound import playsound
-                playsound('samaysuccess.mp3')
+                os.system("mpv samaysuccess.mp3 > /dev/null 2>&1 & ")
+                os.system("sleep 315")
                 os.system("clear")
                 os.system("python3 ishu.py")
             if opp1==4:
@@ -244,8 +317,9 @@ class Ishita:
                 os.system("clear")
                 os.system("python3 ishu.py")
         if opp==3:
-                bye()   
-                    
+                bye()
+                os.system("sleep 4")
+                os.system("python3 ishu.py")                   
         if opp==4:
             sys.exit            
                 
